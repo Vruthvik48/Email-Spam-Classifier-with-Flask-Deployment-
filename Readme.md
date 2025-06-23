@@ -53,7 +53,7 @@ python main.py
 
 6. **Open in browser**
 
-Visit http://127.0.0.1:5000/ in your web browser to test the classifier.
+Run and open in your web browser to test the classifier.
 
 ## 📄 License
 This project is open-source and available under the MIT License.
