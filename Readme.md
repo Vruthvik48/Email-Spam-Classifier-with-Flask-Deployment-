@@ -30,13 +30,21 @@ This project includes:
 ## 🗂️ Project Structure
 
 ├── static/
+
 │ └── not-spam.webp #For the web app gifs
+
 │ └── spam.webp 
+
 ├── templates/
+
 │ └── index.html # HTML page for the frontend
+
 ├── Naive_model.pkl # Saved model
+
 ├── main.py # Flask web app
+
 ├── Email Spam.ipynb # Model training and evaluation script
+
 └── README.md
 ---
 
