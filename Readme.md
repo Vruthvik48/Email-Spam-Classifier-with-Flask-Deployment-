@@ -31,18 +31,17 @@ This project includes:
 
 1. **Clone the repository**
 
-'''bash
-git clone https://github.com/Vruthvik48/email-spam-classifier.git
-cd email-spam-classifier
+  git clone https://github.com/Vruthvik48/email-spam-classifier.git
+  cd email-spam-classifier
 
 2. **Create a virtual environment**
 
-python -m venv venv
-source venv\Scripts\activate
+  python -m venv venv
+  source venv\Scripts\activate
 
 3. **Install dependencies**
 
-pip install -r requirements.txt
+  pip install -r requirements.txt
 
 4. **Run the trained model using the Naive_model.pkl file**
 
