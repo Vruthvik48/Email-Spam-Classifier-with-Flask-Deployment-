@@ -31,6 +31,7 @@ This project includes:
 
 1. **Clone the repository**
 
+'''bash
 git clone https://github.com/Vruthvik48/email-spam-classifier.git
 cd email-spam-classifier
 
